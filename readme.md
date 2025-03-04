@@ -39,3 +39,7 @@ The system stores the following information for each student:
 - Age
 - Student ID (auto-generated)
 - Course grades
+
+## Preview
+
+![Preview of the Student Management System](previewImage.png)
