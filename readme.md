@@ -42,4 +42,4 @@ The system stores the following information for each student:
 
 ## Preview
 
-![Preview of the Student Management System](previewImage.png)
+<img src="previewImage.png" alt="Preview of the Student Management System" width="600"/>
